@@ -2,7 +2,7 @@
 //  FlixUITestsLaunchTests.swift
 //  FlixUITests
 //
-//  Created by Sohail Arshad on 9/20/22.
+//  Created by Umar Arshad on 9/20/22.
 //
 
 import XCTest
